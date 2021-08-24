@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\jovem\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\jovem\\.nuget\\packages"
+    ]
+  }
+}
